@@ -2,7 +2,6 @@
 
 The support, privacy, and terms pages for Petri Pals, a free microbiology game for iPhone.
 
-Live pages (after GitHub Pages is turned on):
 
 * Support — `https://jphan-dev.github.io/Petri-Pals/support.html`
 * Privacy Policy — `https://jphan-dev.github.io/Petri-Pals/privacy.html`
